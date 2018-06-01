@@ -18,3 +18,4 @@ done
 echo "up $b"
 echo "down  $a"
 KKKKKKKKKKKKKKKKKKKKKKKKKKK
+WOSHINIDESHUI
